@@ -1,0 +1,23 @@
+{
+    "id": "1000",
+    "bank_id": "test-bank",
+    "label": null,
+    "number": "5519436819",
+    "owners": [
+        {
+            "id": "",
+            "provider": null,
+            "display_name": "robert.uk.29@example.com"
+        }
+    ],
+    "type": null,
+    "balance": {
+        "currency": "EUR",
+        "amount": "1000.00"
+    },
+    "account_routing": {
+        "scheme": "OBP",
+        "address": "1000"
+    },
+    "account_rules": []
+}
